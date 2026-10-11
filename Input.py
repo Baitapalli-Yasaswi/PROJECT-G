@@ -6,7 +6,7 @@ if operator == "+":
 elif operator == "-":
     print(NUM1-NUM2)
 elif operator == "*":
-    print("NUM1*NUM2")
+    print(NUM1*NUM2)
 elif operator == "/":
     print(NUM1/NUM2)
 else:
